@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yasamankashani
+- 👀 I’m interested in Full-Stack Development and Artificial Intelligence. 
+- 📫 Contact: yassikashaniamin@gmail.com
+- 😄 Pronouns: She/her
